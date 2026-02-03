@@ -1,20 +1,22 @@
-{
+[
+  {
     "licenses": [
-        {
-            "hwid": "04F14451D5CBCAF7DDCFFD4C6EE9E740",
-            "plan": "PREMIUM",
-            "name": "pluza | CRACKED",
-            "expiry": ""
-        }
+      {
+        "hwid": "04F14451D5CBCAF7DDCFFD4C6EE9E740",
+        "plan": "PREMIUM",
+        "name": "pluza | CRACKED",
+        "expiry": ""
+      }
     ]
-},
-{
+  },
+  {
     "licenses": [
-        {
-            "hwid": "F5CC122E815AFCB46C3153B514DF9EFB",
-            "plan": "PREMIUM",
-            "name": "Deepanshu | Paid SRC",
-            "expiry": ""
-        }
+      {
+        "hwid": "F5CC122E815AFCB46C3153B514DF9EFB",
+        "plan": "PREMIUM",
+        "name": "Deepanshu | Paid SRC",
+        "expiry": ""
+      }
     ]
-}
+  }
+]
